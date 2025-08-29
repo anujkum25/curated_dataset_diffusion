@@ -1,0 +1,27 @@
+#Notes on data preperation and evalution mechanism
+
+
+############ Dataset preperation #####################
+
+## Dataset 1
+simple dataset, hand curated, many categories. likekly to generate not very good quality images as prompts are not well written.
+
+
+## Dataset 2
+india specific prompts belonging to multiple categories. 
+
+
+## Dataset 3
+more advance version of dataset 2. more india specific keywords, mention of caste based, region based and culture based keywords.
+
+
+## dataset 4
+more complex, passage like examples.
+
+
+
+
+
+
+######### Evalution Rubrics ################
+# explained in evalution framework.xls
